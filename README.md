@@ -1,5 +1,5 @@
-# Title
- ### Mixed Messages Generator
+# Mixed Messages Generator
+
 
  ## Contents: 
  * [Project Objectives](#Project-Objectives)<br>
